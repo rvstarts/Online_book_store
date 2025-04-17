@@ -15,9 +15,7 @@ const Main=()=>{
       </div>
 
       
-      <div className="content">
-          <button className="guestbutton">Continue As Guest</button>
-      </div>
+     
     </div>
 
   </body>
